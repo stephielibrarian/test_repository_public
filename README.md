@@ -1,3 +1,3 @@
 # test_repository_public
 
-A public repository fora demo.
+A public repository for a demo.
